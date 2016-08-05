@@ -6,9 +6,9 @@ color:
   saturation: 0.29590715980157256
   rhythmicContrast: 0.18258039536885917
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#000000'
+    - '#BFBFBF'
+    - '#4E4E4E'
+    - '#9E9E9E'
 name: The Fussy Shopper
